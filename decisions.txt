@@ -1,0 +1,2 @@
+- the first schema in `schemas` will be deemed as the base schema for that resource.
+- name will return both components and formatted string
